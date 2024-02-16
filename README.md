@@ -1,2 +1,2 @@
-# DrW_myrepo Some words I wrote on my local computer
-some more info from my local computer
+# DrW_myrepo
+some info from my local computer
